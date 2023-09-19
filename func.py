@@ -1,4 +1,4 @@
-from DATAp import *
+from DATA import *
 import numpy as np
 
 movieSize = len(movieData)
